@@ -1,5 +1,5 @@
 
-![GSoC mlpack image](./assets/gsoc-mlpack.png)
+![GSoC mlpack image](./gsoc-mlpack.png)
 
 **Organisation: [mlpack](https://github.com/mlpack)**
 
@@ -58,6 +58,6 @@ I loved the time I spent with mlpack and would like to thanks all my mentors  fo
 ## Ways to reach me
 
 <p align="center">
-  <a href="mailto:shubham.agra1206@gmail.com?subject = Hello from your GitHub README&body = Message"><img src="./assets/gmail.svg" height="80px" width="80px" alt="Gmail" ></a>
-  <a href="https://www.linkedin.com/in/shubham-agrawal-113802180/"><img src="./assets/linkedIn.svg" height="80px" width="80px" alt="LinkedIn"></a>
+  <a href="mailto:shubham.agra1206@gmail.com?subject = Hello from your GitHub README&body = Message"><img src="./gmail.svg" height="80px" width="80px" alt="Gmail" ></a>
+  <a href="https://www.linkedin.com/in/shubham-agrawal-113802180/"><img src="./linkedIn.svg" height="80px" width="80px" alt="LinkedIn"></a>
 </p>
